@@ -19,7 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="demo.c" />
+    <ClCompile Include="day03_test01.c" />
+    <ClCompile Include="day03_test02.c" />
+    <ClCompile Include="homework.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
